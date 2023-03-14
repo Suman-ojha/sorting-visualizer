@@ -1,0 +1,6 @@
+# sorting-visualizer
+Sorting visualizer
+Here I have used #Html, #Css , #Javascript...
+
+only now added selection sort..
+Later other sorting alogithm will also be added...work in progress...
